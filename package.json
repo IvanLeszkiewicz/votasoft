@@ -1,0 +1,25 @@
+{
+  "name": "votasoft",
+  "version": "1.0.0",
+  "description": "Sistema de votación en línea",
+  "main": "server.js",
+  "scripts": {
+    "nodemon": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanLeszkiewicz/votasoft.git"
+  },
+  "author": "Gimenez Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanLeszkiewicz/votasoft/issues"
+  },
+  "homepage": "https://github.com/IvanLeszkiewicz/votasoft#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
